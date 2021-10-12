@@ -1,5 +1,4 @@
-// npm install r --save
-// npm install buffer --save
+
 import uuid from "react-native-uuid";
 
 const NUM_CONTACTS = 30;
